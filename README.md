@@ -12,9 +12,9 @@ Todas las citas son guardadas en localstorage.
 
 Este proyecto fue desarrollado usando diferenctes tecnologias como: 
 
-- :bulb: **Vitep**
+- :bulb: **Vite**
 
-- :gear: **Tailwind CSS**: Axios is a simple promise based HTTP client for the browser and node.js. Axios provides a simple to use library in a small package with a very extensible interface.
+- :gear: **Tailwind CSS**
 
 ## Importante
 
