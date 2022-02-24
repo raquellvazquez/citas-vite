@@ -7,6 +7,12 @@ Este proyecto fue construido con [Vite](https://vitejs.dev/guide/#overview).
 Este proyecto permite llenar un formulario para agregar una cita, ademas de poder eliminar o editar las citas previamente registradas.
 Todas las citas son guardadas en localstorage.
 
+<br>
+ <div align="center">
+    <br>
+    <img src="https://raw.githubusercontent.com/raquellvazquez/citas-vite/master/Screen%20Shot%202022-02-16%20at%209.52.34%20PM.png" alt="img" width="auto" height="auto" />
+    <br>
+</div>
 
 ## Caracteristicas
 
